@@ -10,6 +10,7 @@ All commands are grouped by topics for quick lookup and learning.
 ```bash
 linux-devops-cheatsheet/
 ├── README.md
+└──docs/
 └── topics/
     ├── 01_file_directory.md
     ├── 02_file_permissions.md
