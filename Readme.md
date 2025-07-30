@@ -96,7 +96,7 @@ Have a helpful shell script, tool guide, or DevOps doc to add?
 Feel free to fork this repo, add your content, and raise a Pull Request!
 
 ⭐ Star this repo if you find it helpful — let’s build this into a community resource.
-
+---
 
 ✨ Made with ❤️ for DevOps learners by Satish Choudhary  
 Perfect for GitHub wikis, notes, and documentation!
