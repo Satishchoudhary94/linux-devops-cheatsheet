@@ -37,20 +37,20 @@ linux-devops-cheatsheet/
 
 ---
 
-## 📂 Basic Topics
+## 📚 Topics Covered
 
-| No. | Topic                                                 | Description                                |
-| --- | ----------------------------------------------------- | ------------------------------------------ | -------- |
-| 01  | [File & Directory](topics/01_file_directory.md)       | Navigate, list, move, delete files/folders |
-| 02  | [File Permissions](topics/02_file_permissions.md)     | Manage access with chmod, chown, etc.      |
-| 03  | [Compression](topics/03_compression.md)               | Zip, unzip, tar, gzip, xz                  |
-| 04  | [Process Management](topics/04_process_management.md) | ps, kill, jobs, top, etc.                  |
-| 05  | [System Info](topics/05_system_info.md)               | RAM, CPU, uptime, disk info                |
-| 06  | [Networking](topics/06_networking.md)                 | ping, ip, wget, curl                       |
-| 07  | [I/O Redirection](topics/07_io_redirection.md)        | `>`, `<`, `>>`, `                          | `, `tee` |
-| 08  | [Environment Variables](topics/08_env_variables.md)   | export, printenv, unset                    |
-| 09  | [User Management](topics/09_user_management.md)       | Add/remove users & groups                  |
-| 10  | [Shortcuts](topics/10_shortcuts.md)                   | Bash, Nano, Vim productivity               |
+| No. | Topic                | Description                              |
+|-----|----------------------|------------------------------------------|
+| 01  | File & Directory     | Navigate, list, move, delete files/folders |
+| 02  | File Permissions     | Manage access with `chmod`, `chown`, etc. |
+| 03  | Compression          | Use of `zip`, `unzip`, `tar`, `gzip`, `xz` |
+| 04  | Process Management   | Commands like `ps`, `kill`, `jobs`, `top` |
+| 05  | System Info          | Check RAM, CPU, uptime, disk info         |
+| 06  | Networking           | Use of `ping`, `ip`, `wget`, `curl`       |
+| 07  | I/O Redirection      | Operators like `>`, `<`, `>>`, `|`, `tee` |
+| 08  | Environment Variables| `export`, `printenv`, `unset`             |
+| 09  | User Management      | Add/remove users & groups                 |
+| 10  | Shortcuts            | Bash, Nano, and Vim productivity shortcuts |
 
 ---
 
